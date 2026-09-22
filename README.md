@@ -8,9 +8,9 @@ with no framework and no build step. The backend is a Node + Express + MongoDB A
 
 | What | Link |
 | --- | --- |
-| Website (Netlify) | https://YOUR-SITE.netlify.app |
-| API (Render) | https://YOUR-API-NAME.onrender.com |
-| Repository | https://github.com/YOUR-USERNAME/business-directory |
+| Website (Netlify) | https://elegant-clafoutis-735428.netlify.app |
+| API (Render) | https://business-directory-m1wu.onrender.com |
+| Repository |https://github.com/tashrifa41455/business_directory |
 
 > Replace the three links above once you have deployed. The Render free tier sleeps after
 > 15 minutes, so the first request can take 30 to 50 seconds. The site shows a
