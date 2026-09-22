@@ -10,6 +10,6 @@
 // this while developing.
 
 window.APP_CONFIG = {
-  API_URL: "https://YOUR-API-NAME.onrender.com",
+  API_URL: "https://business-directory-m1wu.onrender.com",
   LOCAL_API_PORT: 5000,
 };
